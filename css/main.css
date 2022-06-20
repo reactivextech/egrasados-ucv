@@ -481,10 +481,10 @@ strong { font-weight: 700; }
 
 .section-header { margin-bottom: 3em; }
 
-.section-header h2 {
+/* .section-header h2 {
   font-size: 30px;
   margin-top: 0;
-}
+} */
 
 .section-header h3 {
   font-size: 20px;
